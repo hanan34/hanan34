@@ -57,7 +57,7 @@ I'm known for writing clean, scalable code and working closely with clients to u
 - React Native + TypeScript + REST APIs + WebSockets  
 
 ### [📊 AccuTrader – Cross-platform Trading Journal](https://www.accutrader.io/)
-> Deployed on App Store – Android version in progress  
+> Deployed on App Store – Playstore 
 - Trade logging, filters, strategy insights, charts  
 - Real-time sync via WebSockets  
 - In-app subscriptions with RevenueCat  
